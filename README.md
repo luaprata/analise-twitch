@@ -3,6 +3,7 @@
 Este projeto analisa a evolução dos jogos mais assistidos na Twitch de 2016 a 2024.  
 Utilizei Python, pandas e bar_chart_race para criar uma visualização animada com foco em storytelling de dados.
 
+
 ## 🔧 Ferramentas
 - Python
 - pandas
@@ -12,13 +13,12 @@ Utilizei Python, pandas e bar_chart_race para criar uma visualização animada c
 ## 📈 Dados
 Fonte: [Kaggle - Evolution of Top Games on Twitch](https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch)
 
-## 📁 Estrutura de Pastas
-.
-├── README.md # Descrição geral do projeto
-├── requirements.txt # Dependências do projeto
-├── dataset/ # Arquivos CSV e fontes de dados
-├── notebooks/ # Notebooks Jupyter com o código de análise e visualização
-├── images/ # Arquivos de mídia, como gráficos e GIFs gerados
+### 📁 Estrutura de Pastas:
+- **`dataset/`**: contém os dados brutos utilizados na análise (ex: `Twitch_game_data.csv`)
+- **`notebooks/`**: inclui o notebook `analise-twitch.ipynb` com todo o código executável
+- **`images/`**: armazena visualizações geradas, como `twitch_top10_games.gif`
+- **`requirements.txt`**: lista os pacotes Python necessários para rodar o projeto
+- **`README.md`**: este documento explicativo
 
 ## 🎥 Resultado
 Veja a animação abaixo:
