@@ -13,7 +13,7 @@ Utilizei Python, pandas e bar_chart_race para criar uma visualização animada c
 ## 📈 Dados
 Fonte: [Kaggle - Evolution of Top Games on Twitch](https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch)
 
-### 📁 Estrutura de Pastas:
+## 📁 Estrutura de Pastas:
 - **`dataset/`**: contém os dados brutos utilizados na análise (ex: `Twitch_game_data.csv`)
 - **`notebooks/`**: inclui o notebook `analise-twitch.ipynb` com todo o código executável
 - **`images/`**: armazena visualizações geradas, como `twitch_top10_games.gif`
