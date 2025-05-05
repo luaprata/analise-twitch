@@ -12,9 +12,17 @@ Utilizei Python, pandas e bar_chart_race para criar uma visualização animada c
 ## 📈 Dados
 Fonte: [Kaggle - Evolution of Top Games on Twitch](https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch)
 
+## 📁 Estrutura de Pastas
+.
+├── README.md # Descrição geral do projeto
+├── requirements.txt # Dependências do projeto
+├── dataset/ # Arquivos CSV e fontes de dados
+├── notebooks/ # Notebooks Jupyter com o código de análise e visualização
+├── images/ # Arquivos de mídia, como gráficos e GIFs gerados
+
 ## 🎥 Resultado
 Veja a animação abaixo:
-![Top Jogos Twitch](twitch_top10_games.gif)
+![Twitch Top 10](images/twitch_top10_games.gif)
 
 ## 🧠 Insights
 - LoL e CS:GO dominam a Twitch há anos.
